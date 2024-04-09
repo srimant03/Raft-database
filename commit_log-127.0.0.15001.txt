@@ -1,0 +1,3 @@
+SET,2,apples,5
+SET,2,oranges,2
+SET,3,apples,15
